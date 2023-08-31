@@ -1,0 +1,8 @@
+C:\Users\87053\OneDrive\Рабочий стол\test exercises\LiChsarp\LiChsarp\bin\Debug\LiChsarp.exe.config
+C:\Users\87053\OneDrive\Рабочий стол\test exercises\LiChsarp\LiChsarp\bin\Debug\LiChsarp.exe
+C:\Users\87053\OneDrive\Рабочий стол\test exercises\LiChsarp\LiChsarp\bin\Debug\LiChsarp.pdb
+C:\Users\87053\OneDrive\Рабочий стол\test exercises\LiChsarp\LiChsarp\obj\Debug\LiChsarp.csproj.AssemblyReference.cache
+C:\Users\87053\OneDrive\Рабочий стол\test exercises\LiChsarp\LiChsarp\obj\Debug\LiChsarp.csproj.SuggestedBindingRedirects.cache
+C:\Users\87053\OneDrive\Рабочий стол\test exercises\LiChsarp\LiChsarp\obj\Debug\LiChsarp.csproj.CoreCompileInputs.cache
+C:\Users\87053\OneDrive\Рабочий стол\test exercises\LiChsarp\LiChsarp\obj\Debug\LiChsarp.exe
+C:\Users\87053\OneDrive\Рабочий стол\test exercises\LiChsarp\LiChsarp\obj\Debug\LiChsarp.pdb
